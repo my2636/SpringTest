@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="SpringTest">
+    <output-path>$PROJECT_DIR$/target/SpringTest-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="module-output" name="SpringTest" />
+      <element id="dir-copy" path="$PROJECT_DIR$/target/SpringTest-1.0-SNAPSHOT/META-INF" />
+      <element id="dir-copy" path="$PROJECT_DIR$/target/SpringTest-1.0-SNAPSHOT/WEB-INF" />
+    </root>
+  </artifact>
+</component>
